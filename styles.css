@@ -1,6 +1,12 @@
+
+li {
+    text-decoration: underline;
+}
+
 #navigation-title {
     color: red;
 }
+
 body {
     margin: 0;
     padding: 0;
