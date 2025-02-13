@@ -1,5 +1,10 @@
 
-li {
+.selected {
+    font-weight: bold;
+    color: #009999;
+}
+
+.menu-item {
     text-decoration: underline;
 }
 
